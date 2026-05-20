@@ -1,0 +1,6 @@
+{
+  "name": "Baris Parlan Landing Page",
+  "description": "Retro terminal landing page and digital portfolio for Baris Parlan — proactive artist, researcher, and storyteller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
