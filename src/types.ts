@@ -10,6 +10,10 @@ export interface ActiveEngagement {
   title: string;
   url: string;
   description: string;
+  category: 'The Engine' | 'The Fortress' | 'The Vault';
+  problem: string;
+  architecture: string;
+  repository: string;
 }
 
 export interface EducationalOffer {
